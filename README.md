@@ -20,7 +20,7 @@ Otimizador de jogos para Windows 11, feito para rodar no seu próprio PC: sem co
 
 ## Atualizações
 
-O GameBoost verifica este repositório ao abrir (e de tempos em tempos), confere a assinatura SHA-256 do instalador e atualiza sozinho. O app pede administrador sempre, porque os ajustes mexem no sistema.
+O GameBoost verifica este repositório ao abrir (e de tempos em tempos), confere o SHA-256 (impressão digital) do instalador e atualiza sozinho. O app pede administrador sempre, porque os ajustes mexem no sistema.
 
 ## Segurança
 
